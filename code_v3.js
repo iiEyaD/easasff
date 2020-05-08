@@ -1,5 +1,5 @@
 ﻿const Discord = require("discord.js");
-const myid = ['ID'];
+const myid = ['358916479284150284'];
 const prefix = ['$'];
 const cmd = require("node-cmd")
 const client = new Discord.Client();
